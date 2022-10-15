@@ -10,4 +10,4 @@ The options it should have are the choices of:
 - Numbers
 - Amount of characters
 
-This file will be updated as it progresses.
+This file will be updated as the project progresses.
