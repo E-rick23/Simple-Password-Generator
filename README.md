@@ -1,13 +1,9 @@
-The Simple Password Generator is a small project i'm working on my free time.
+The Simple Password Generator is a simple project i challenged myself to do on my own.
 
-It's meant to be a simple HTML (With some JavaScript) page with a few options for generating a desired random password.
+It's a simple webpage that allows the user to generate a password, with the options of having:
 
-The options it should have are the choices of:
+-Uppercase characters
+-Numbers
+-Symbols
+-Between 4 and 20 characters
 
-- Uppercase characters
-- Lowercase characters
-- Symbols
-- Numbers
-- Amount of characters
-
-This file will be updated as the project progresses.
