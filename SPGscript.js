@@ -66,7 +66,7 @@ document.querySelector('#app').addEventListener('click', event => {
 
         // Event listener for generate button
         case selectors.button:
-            selectors.input.value = generatePassword()
+            selectors.input.value = generatePassword() //This calls for the generatePassword function
         break;
     }
 })
